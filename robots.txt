@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodmayonly-web.github.io/-JSK51-OIL-JETSKI/sitemap.xml
